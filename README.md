@@ -1,6 +1,7 @@
 #Breast Cancer Detection System Using Machine Learning
 
 This repository contains the implementation of a Breast Cancer Detection System developed as part of the Infosys Springboard Internship (October 3, 2024 – December 5, 2024). The project leverages machine learning techniques to accurately classify tumors as malignant or benign, enabling early detection and diagnosis.
+Demo Link: https://breastcancer-detection04.streamlit.app/
 
 🔍 Overview
 Early detection of breast cancer significantly improves survival rates. This project aims to provide a robust solution using the AdaBoost Classifier to enhance prediction accuracy and reduce false negatives, which are critical in healthcare applications.
